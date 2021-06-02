@@ -71,7 +71,7 @@ Now we have a complete dataframe with all the information we need to identify th
 
 **Key objectives:**
 
-**1.Share my conclusions.:
+**1.Share my conclusions:**
 
 Taking in consideration both the business task: How do annual members and casual riders use Cyclistic bikes differently? and the insights we've learned from the available data.
 
